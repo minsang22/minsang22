@@ -29,10 +29,8 @@
 <h2 align="center"><b> ☎ Contact ☎ </b></h2>
 
 <p align="center">
-  <a href="mailto:psw94025437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
-  <a href="https://www.instagram.com/okpyo11/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp&nbsp
-  <a href="https://velog.io/@okpyo12"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>&nbsp&nbsp
-  <a href="https://okpyo11.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+  <a href="mailto:nornen20@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
+  <a href="https://www.instagram.com/dodozl__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp&nbsp
   </p>
 <br/>
 
