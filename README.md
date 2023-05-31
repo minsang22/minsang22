@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=220&section=header&text=minsang22;&fontSize=60&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=minsang22&fontSize=90)
+#![header](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=220&section=header&text=minsang22;&fontSize=60&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 ### Hi there 👋
 
 <h2 align="center"><b> 🛠 Stacks 🛠 </b></h2>
@@ -32,3 +33,4 @@
   <a href="https://www.instagram.com/dodozl__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp&nbsp
   </p>
 <br/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
