@@ -12,18 +12,17 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp;
 <br /> <br /> 
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp;
-<br /> <br />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=#6DB33F"/> <p/>
 <br />
 
 <a href="#">
-<img src = https://github-readme-stats.vercel.app/api?username=okpyo12&show_icons=true&theme=radical height = "180px" width = "50%"> &nbsp
+<img src = https://github-readme-stats.vercel.app/api?username=minsang22&show_icons=true&theme=radical height = "180px" width = "50%"> &nbsp
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okpyo12&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minsang22&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
 </a>
 <br />
 
