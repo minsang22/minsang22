@@ -33,3 +33,4 @@
   </p>
 <br/>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=92a8d1&height=220&section=footer&fontSize=60&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
